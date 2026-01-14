@@ -2,3 +2,4 @@
 *.mmdb
 __pycache__/
 .DS_Store
+.github
